@@ -10,6 +10,8 @@
 azure-functions
 numpy
 implicit
+numpy
+pandas
 
 
 
